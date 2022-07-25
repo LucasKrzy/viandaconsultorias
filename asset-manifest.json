@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//lucaskrzy.github.io/viandaconsultorias/static/css/main.b065b470.css",
+    "main.js": "//lucaskrzy.github.io/viandaconsultorias/static/js/main.a6261f4d.js",
+    "static/js/787.c264cc11.chunk.js": "//lucaskrzy.github.io/viandaconsultorias/static/js/787.c264cc11.chunk.js",
+    "static/media/logofy.svg": "//lucaskrzy.github.io/viandaconsultorias/static/media/logofy.2e0b28af4f8f1377eba728d40a603bdb.svg",
+    "index.html": "//lucaskrzy.github.io/viandaconsultorias/index.html",
+    "main.b065b470.css.map": "//lucaskrzy.github.io/viandaconsultorias/static/css/main.b065b470.css.map",
+    "main.a6261f4d.js.map": "//lucaskrzy.github.io/viandaconsultorias/static/js/main.a6261f4d.js.map",
+    "787.c264cc11.chunk.js.map": "//lucaskrzy.github.io/viandaconsultorias/static/js/787.c264cc11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b065b470.css",
+    "static/js/main.a6261f4d.js"
+  ]
+}
